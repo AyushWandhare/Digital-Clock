@@ -1,6 +1,6 @@
 # Digital-Clock
 Digital clock is a simple clock which is made by 
-using c++ programming language.
+using C programming language.
 
 
 This program will generate a digital clock using c program. The logic behind to implement this program is as follows:
