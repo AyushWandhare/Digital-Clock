@@ -12,5 +12,4 @@ This program will generate a digital clock using c program. The logic behind to 
     Increase hour and check if it is equal to 24 then reset hour to 0.
 
 
-<p>Output</p>
-<h1> 00:00:06</h1>
+
